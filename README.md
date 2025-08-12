@@ -1,4 +1,4 @@
-*Public Health Nurse Supply, Need, and Deserts*
+***Public Health Nurse Supply, Need, and Deserts***
 
 Project Team: Casey Balio, PhD; Michael Meit, MA, MPH; Haleigh Leslie, DrPH, MPH, MBA; Benjamin Pelton, MPH, RT(R); Nathan Dockery, MPH
 All project team members are at the East Tennessee State University Center for Rural Health and Research (https://www.etsu.edu/cph/rural-health-research/). This work was conducted as a part of the Consortium for WOrkforce Research in Public Health (CWORPH, https://cworph.umn.edu/), led by the University of Minnesota.
@@ -11,7 +11,7 @@ This project was supported by the Centers for Diseases Control and Prevention a
 
 **Study Purpose**
 
-The purpose of this study is to describe the need for and supply of public health nurses (PHN) in local, governmental public health, as well as identify PHN deserts where there is high need and low supply. 
+The purpose of this study is to describe the need for and supply of public health nurses (PHN) in local, governmental public health, as well as identify PHN deserts where there is high need and low supply. Additional details regarding study design, approach, and results can be found in the manuscript: [PLACEHOLDER]
 
 **PHN Need Index**
 
@@ -25,6 +25,10 @@ Domain 3: Healthcare Context
 
 Domain 4: Health Status and Outcomes
 
-**Identifying PHN Deserts**
+**Identifying PHN Priority Counties**
 
-PHN deserts were defined as counties with relatively high need and low supply of PHNs. Data is limited to counties with PHN staffing data from the 2019 NACCHO Profiles. Counties with complete data are categorized into three priority tiers with priority tier 1 being the highest priority and priority tier 3 being the lowest priority tier. Details on defining and identifying PHN deserts are forthcoming. 
+County-level PHN prioritizaiton was defined as counties with relatively high need and low supply of PHNs. Data is limited to counties with PHN staffing data from the 2019 NACCHO Profiles. Counties with complete data are categorized into three priority tiers with priority tier 1 being the highest priority and priority tier 3 being the lowest priority tier. Details on defining and identifying PHN deserts are forthcoming. 
+
+**Data**
+
+Data for the national and state versions of the PHN Need Index and the priority indicators are available in the Excel file. Data for national and state versions of the PHN Need Index are available for 2,823 counties. Data for PHN priority tiers is available for 783 counties. 
