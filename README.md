@@ -1,6 +1,6 @@
 *Public Health Nurse Supply, Need, and Deserts*
 
-Project Team: Casey Balio, PhD; Michael Meit, MA, MPH; Haleigh Leslie, DrPH(c), MPH, MBA; Benjamin Pelton, MPH, RT(R); Nathan Dockery
+Project Team: Casey Balio, PhD; Michael Meit, MA, MPH; Haleigh Leslie, DrPH, MPH, MBA; Benjamin Pelton, MPH, RT(R); Nathan Dockery, MPH
 All project team members are at the East Tennessee State University Center for Rural Health and Research (https://www.etsu.edu/cph/rural-health-research/). This work was conducted as a part of the Consortium for WOrkforce Research in Public Health (CWORPH, https://cworph.umn.edu/), led by the University of Minnesota.
 
 Contact: balioc@etsu.edu
@@ -25,10 +25,6 @@ Domain 3: Healthcare Context
 
 Domain 4: Health Status and Outcomes
 
-Data for the PHNN Index is available in the file titled: _County-Level State and National PHNN Index Data_
-
 **Identifying PHN Deserts**
 
-PHN deserts were defined as counties with relatively high need and low supply of PHNs. Data is limited to counties with PHN staffing data from the 2019 NACCHO Profiles. Counties with complete data are categorized into four priority tiers with priority tier 1 being the highest priority and priority tier 4 being the lowest priority tier. Details on defining and identifying PHN deserts are forthcoming. 
-
-Data for the PHNN Index is available in the file titled: _County-Level PHN Priority Tier Data_
+PHN deserts were defined as counties with relatively high need and low supply of PHNs. Data is limited to counties with PHN staffing data from the 2019 NACCHO Profiles. Counties with complete data are categorized into three priority tiers with priority tier 1 being the highest priority and priority tier 3 being the lowest priority tier. Details on defining and identifying PHN deserts are forthcoming. 
