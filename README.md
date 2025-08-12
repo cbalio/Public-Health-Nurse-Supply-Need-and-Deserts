@@ -1,4 +1,4 @@
-***Public Health Nurse Supply, Need, and Deserts***
+***Public Health Nurse Supply, Need, and Priority Tiers***
 
 Project Team: Casey Balio, PhD; Michael Meit, MA, MPH; Haleigh Leslie, DrPH, MPH, MBA; Benjamin Pelton, MPH, RT(R); Nathan Dockery, MPH
 All project team members are at the East Tennessee State University Center for Rural Health and Research (https://www.etsu.edu/cph/rural-health-research/). This work was conducted as a part of the Consortium for WOrkforce Research in Public Health (CWORPH, https://cworph.umn.edu/), led by the University of Minnesota.
